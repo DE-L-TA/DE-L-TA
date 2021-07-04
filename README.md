@@ -30,7 +30,7 @@ I'm Mayank Sahu a Full Stack Web Developer and Data Analyst. I Spend most of tim
 
 #### Profile Visits 
 
-![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=de-l-ta&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=de-l-ta&&show_icons=true&title_color=EDEDED&icon_color=DA0037&text_color=66DE93&bg_color=171717)
 
 
 
